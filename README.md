@@ -1,8 +1,30 @@
-# GoHighLevel & NMI Billing Automation
+<!-- styled:v2 -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1726,50:167dfe,100:9533fa&height=180&section=header&text=GoHighLevel%20%26%20NMI%20Billing%20Automation&fontSize=31&fontColor=ffffff&fontAlignY=36&desc=Case%20study%20%E2%80%A2%20Finance%20%E2%80%A2%20Payment%20automation%20in%20Make&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="GoHighLevel & NMI Billing Automation" />
 
 **A Make automation that connects GoHighLevel with the NMI payment gateway to run billing on schedule and track every transaction.**
 
-![Finance](https://img.shields.io/badge/Finance-167dfe?style=flat-square) ![Payment automation in Make](https://img.shields.io/badge/Payment%20automation%20in%20Make-9533fa?style=flat-square) ![Make](https://img.shields.io/badge/Make-231f20?style=flat-square) ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-231f20?style=flat-square) ![NMI API](https://img.shields.io/badge/NMI%20API-231f20?style=flat-square) ![Webhooks](https://img.shields.io/badge/Webhooks-231f20?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-231f20?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Finance-167dfe?style=flat-square" alt="Finance" />
+  <img src="https://img.shields.io/badge/Payment%20automation%20in%20Make-9533fa?style=flat-square" alt="Payment automation in Make" />
+  <img src="https://img.shields.io/badge/Make-231f20?style=flat-square" alt="Make" />
+  <img src="https://img.shields.io/badge/GoHighLevel-231f20?style=flat-square" alt="GoHighLevel" />
+  <img src="https://img.shields.io/badge/NMI%20API-231f20?style=flat-square" alt="NMI API" />
+  <img src="https://img.shields.io/badge/Webhooks-231f20?style=flat-square" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/OpenAI-231f20?style=flat-square" alt="OpenAI" />
+</p>
+
+<p>
+  <a href="#overview">Overview</a> ·
+  <a href="#key-features">Key features</a> ·
+  <a href="#results">Results</a> ·
+  <a href="#tech-stack">Tech stack</a>
+</p>
+
+</div>
+
+---
 
 ![Make billing automation: webhook, invoice generator, OpenAI steps and a router that connects GoHighLevel with the NMI payment gateway.](assets/cover.webp)
 
@@ -32,7 +54,7 @@ A Make scenario with webhooks, an invoice generator, routers and API calls betwe
 
 ## Tech stack
 
-Make · GoHighLevel · NMI API · Webhooks · OpenAI
+![Make](https://img.shields.io/badge/Make-1d1726?style=for-the-badge) ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-1d1726?style=for-the-badge) ![NMI API](https://img.shields.io/badge/NMI%20API-1d1726?style=for-the-badge) ![Webhooks](https://img.shields.io/badge/Webhooks-1d1726?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/OpenAI-1d1726?style=for-the-badge)
 
 ## Privacy
 
@@ -41,4 +63,19 @@ Client names and records are confidential. Every screen in this repository uses 
 ## Links
 
 - Case study on Lexvaxa: https://lexvaxa.com/work/ghl-nmi-billing-automation
-- Built by **Ch Muhammad Samiullah** ([GitHub](https://github.com/samiullah156-creator)) at [Lexvaxa](https://lexvaxa.com)
+
+---
+
+<div align="center">
+
+**Built by [Ch Muhammad Samiullah](https://github.com/samiullah156-creator)** · AI Automation Engineer and Full-Stack Developer at [Lexvaxa](https://lexvaxa.com)
+
+<a href="https://github.com/samiullah156-creator"><img src="https://img.shields.io/badge/More%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="More projects" /></a>
+<a href="https://lexvaxa.com/contact"><img src="https://img.shields.io/badge/Work%20with%20me-167dfe?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Work with me" /></a>
+<a href="https://www.linkedin.com/in/sami-lexvaxa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<sub>⭐ Star this repo if you found it useful</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9533fa,50:167dfe,100:1d1726&height=110&section=footer" width="100%" alt="" />
